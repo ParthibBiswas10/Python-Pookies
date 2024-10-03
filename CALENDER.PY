@@ -7,3 +7,4 @@ year=int(date[2])
 days=["MONDAY","TUESDAY","WEDNESDAY","THURSDAY","FRIDAY","SATURDAY","SUNDAY"]
 ans=calendar.weekday(year,month,day)
 print(days[ans])
+print(days[ans])
